@@ -1,7 +1,7 @@
 ## Oii, Eu sou Ytallo roberto
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YtalloRoberto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YtalloRoberto&layout=compact&langs_count=16&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YtalloRoberto&layout=compact&langs_count=16&theme=tokyonight"/>
 
 <div>
 <img src="https://github.com/hugovk/python-logos/blob/master/img/Python.png" width=50 height=50
