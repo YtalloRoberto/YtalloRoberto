@@ -1,6 +1,6 @@
 ## Oii, Eu sou Ytallo roberto
 
-![YtalloRoberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=YtalloRoberto&show_icons=true&theme=radical)
+![Ytalloroberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=YtalloRoberto&show_icons=true&theme=radical)
 
 <div>
 <img src="https://github.com/hugovk/python-logos/blob/master/img/Python.png" width=50 height=50
